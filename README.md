@@ -1,3 +1,3 @@
 # galleryproject
 
-This project is the result of learning CSS3. This project only use CSS3.
+Currently learning CSS3 and this project is the result of implementation of CSS3.
